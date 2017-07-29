@@ -1,0 +1,19 @@
+.h1{
+
+}
+
+.fixed{
+	position:fixed;
+}
+
+.relative{
+	position: relative;
+}
+
+.absolute{
+	position: absolute;
+}
+
+body{
+	text-align: center;
+}
